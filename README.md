@@ -1,5 +1,5 @@
 # vue-chat-server-build
 
 ```
-npm start
+npm i && npm start
 ```
